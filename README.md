@@ -40,7 +40,7 @@ Create a nodemon.json file and add {
 
 ### Built With
 
-NODE.JS | EXPRESS | MONGODB | PASSPORT
+NODE.JS | EXPRESS | MONGODB | REACT | TYPESCRIPT
 
 ## Author
 
